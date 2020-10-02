@@ -1,0 +1,23 @@
+{
+  "name": "instagram-crawler",
+  "version": "1.0.0",
+  "description": "Crawl instagram info (Profiles, likes, images, etc)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niceoutput/instagram-crawler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niceoutput/instagram-crawler/issues"
+  },
+  "homepage": "https://github.com/niceoutput/instagram-crawler#readme",
+  "dependencies": {
+    "puppeteer": "^5.3.1"
+  }
+}
