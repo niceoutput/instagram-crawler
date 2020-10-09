@@ -105,3 +105,4 @@ dist
 
 # other files
 credentials.js
+secrets.js
